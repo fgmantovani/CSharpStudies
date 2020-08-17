@@ -1,0 +1,13 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\bin\Debug\Operators.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\bin\Debug\Operators.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\bin\Debug\Operators.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\obj\Debug\S03_T02_Operators.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\obj\Debug\Operators.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Operators\obj\Debug\Operators.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\bin\Debug\Operators.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\bin\Debug\Operators.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\bin\Debug\Operators.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\obj\Debug\S03_T02_Operators.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\obj\Debug\S03_T02_Operators.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\obj\Debug\Operators.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T02_Operators\obj\Debug\Operators.pdb

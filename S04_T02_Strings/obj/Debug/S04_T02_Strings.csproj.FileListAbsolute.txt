@@ -1,0 +1,13 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\bin\Debug\Strings.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\bin\Debug\Strings.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\bin\Debug\Strings.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\obj\Debug\S04_T02_Strings.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\obj\Debug\Strings.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Strings\obj\Debug\Strings.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\bin\Debug\Strings.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\bin\Debug\Strings.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\bin\Debug\Strings.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\obj\Debug\S04_T02_Strings.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\obj\Debug\S04_T02_Strings.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\obj\Debug\Strings.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T02_Strings\obj\Debug\Strings.pdb

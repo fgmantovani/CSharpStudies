@@ -1,0 +1,13 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\bin\Debug\TypeConversion.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\bin\Debug\TypeConversion.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\obj\Debug\S03_T01_TypeConversion.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\obj\Debug\TypeConversion.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeConversion\obj\Debug\TypeConversion.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\bin\Debug\TypeConversion.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\bin\Debug\TypeConversion.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\bin\Debug\TypeConversion.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\obj\Debug\S03_T01_TypeConversion.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\obj\Debug\S03_T01_TypeConversion.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\obj\Debug\TypeConversion.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S03_T01_TypeConversion\obj\Debug\TypeConversion.pdb

@@ -1,0 +1,11 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\bin\Debug\Classes.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\bin\Debug\Classes.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\bin\Debug\Classes.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\obj\Debug\S04_T00_Classes.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\obj\Debug\S04_T00_Classes.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\obj\Debug\Classes.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Classes\obj\Debug\Classes.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T00_Classes\obj\Debug\S04_T00_Classes.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T00_Classes\obj\Debug\S04_T00_Classes.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T00_Classes\obj\Debug\Classes.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S04_T00_Classes\obj\Debug\Classes.pdb
