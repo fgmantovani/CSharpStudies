@@ -1,0 +1,6 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\bin\Debug\Enums.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\bin\Debug\Enums.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\bin\Debug\Enums.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\obj\Debug\T07_Enums.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\obj\Debug\Enums.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\Enums\obj\Debug\Enums.pdb

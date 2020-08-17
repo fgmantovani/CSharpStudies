@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\bin\Debug\TypeDeclaration.exe.config
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\bin\Debug\TypeDeclaration.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\bin\Debug\TypeDeclaration.pdb
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\obj\Debug\TypeDeclaration.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\obj\Debug\TypeDeclaration.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\obj\Debug\TypeDeclaration.exe
+D:\90_PESSOAL\80_Estudo\C#\HelloWorld\TypeDeclaration\obj\Debug\TypeDeclaration.pdb
