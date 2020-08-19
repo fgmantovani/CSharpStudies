@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\bin\Debug\S07_T02_TimeSpan.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\bin\Debug\S07_T02_TimeSpan.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\bin\Debug\S07_T02_TimeSpan.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\obj\Debug\S07_T02_TimeSpan.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\obj\Debug\S07_T02_TimeSpan.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\obj\Debug\S07_T02_TimeSpan.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T02_TimeSpan\obj\Debug\S07_T02_TimeSpan.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\bin\Debug\S07_T01_DateTime.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\bin\Debug\S07_T01_DateTime.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\bin\Debug\S07_T01_DateTime.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\obj\Debug\S07_T01_DateTime.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\obj\Debug\S07_T01_DateTime.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\obj\Debug\S07_T01_DateTime.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S07_T01_DateTime\obj\Debug\S07_T01_DateTime.pdb
