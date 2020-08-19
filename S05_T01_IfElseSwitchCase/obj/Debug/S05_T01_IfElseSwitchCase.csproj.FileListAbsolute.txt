@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\bin\Debug\S05_T01_IfElseSwitchCase.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\bin\Debug\S05_T01_IfElseSwitchCase.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\bin\Debug\S05_T01_IfElseSwitchCase.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\obj\Debug\S05_T01_IfElseSwitchCase.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\obj\Debug\S05_T01_IfElseSwitchCase.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\obj\Debug\S05_T01_IfElseSwitchCase.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T01_IfElseSwitchCase\obj\Debug\S05_T01_IfElseSwitchCase.pdb

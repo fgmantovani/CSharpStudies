@@ -1,0 +1,6 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\bin\Debug\S05_T03_IterationStates.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\bin\Debug\S05_T03_IterationStates.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\bin\Debug\S05_T03_IterationStates.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\obj\Debug\S05_T03_IterationStates.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\obj\Debug\S05_T03_IterationStates.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S05_T03_IterationStates\obj\Debug\S05_T03_IterationStates.pdb
