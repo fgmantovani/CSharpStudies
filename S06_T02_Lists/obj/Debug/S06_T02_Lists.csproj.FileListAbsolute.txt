@@ -1,0 +1,6 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\bin\Debug\S06_T02_Lists.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\bin\Debug\S06_T02_Lists.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\bin\Debug\S06_T02_Lists.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\obj\Debug\S06_T02_Lists.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\obj\Debug\S06_T02_Lists.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T02_Lists\obj\Debug\S06_T02_Lists.pdb

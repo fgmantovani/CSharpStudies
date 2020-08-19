@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\bin\Debug\S06_T01_Arrays.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\bin\Debug\S06_T01_Arrays.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\bin\Debug\S06_T01_Arrays.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\obj\Debug\S06_T01_Arrays.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\obj\Debug\S06_T01_Arrays.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\obj\Debug\S06_T01_Arrays.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S06_T01_Arrays\obj\Debug\S06_T01_Arrays.pdb
