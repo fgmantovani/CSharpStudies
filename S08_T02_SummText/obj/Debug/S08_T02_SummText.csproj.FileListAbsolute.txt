@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\bin\Debug\S08_T02_SummText.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\bin\Debug\S08_T02_SummText.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\bin\Debug\S08_T02_SummText.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\obj\Debug\S08_T02_SummText.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\obj\Debug\S08_T02_SummText.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\obj\Debug\S08_T02_SummText.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T02_SummText\obj\Debug\S08_T02_SummText.pdb

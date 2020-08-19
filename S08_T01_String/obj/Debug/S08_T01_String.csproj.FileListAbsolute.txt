@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\bin\Debug\S08_T01_String.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\bin\Debug\S08_T01_String.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\bin\Debug\S08_T01_String.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\obj\Debug\S08_T01_String.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\obj\Debug\S08_T01_String.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\obj\Debug\S08_T01_String.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T01_String\obj\Debug\S08_T01_String.pdb
