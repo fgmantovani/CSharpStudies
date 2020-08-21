@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\bin\Debug\S08_T04_Exercises.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\bin\Debug\S08_T04_Exercises.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\bin\Debug\S08_T04_Exercises.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\obj\Debug\S08_T04_Exercises.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\obj\Debug\S08_T04_Exercises.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\obj\Debug\S08_T04_Exercises.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S08_T04_Exercises\obj\Debug\S08_T04_Exercises.pdb
