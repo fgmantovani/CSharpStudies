@@ -1,0 +1,7 @@
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\bin\Debug\S09_T03_Path.exe.config
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\bin\Debug\S09_T03_Path.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\bin\Debug\S09_T03_Path.pdb
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\obj\Debug\S09_T03_Path.csprojAssemblyReference.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\obj\Debug\S09_T03_Path.csproj.CoreCompileInputs.cache
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\obj\Debug\S09_T03_Path.exe
+D:\90_PESSOAL\80_Estudo\C#\CSharpStudies\S09_T03_Path\obj\Debug\S09_T03_Path.pdb
